@@ -646,6 +646,8 @@ def main():
     
     Built with: `Streamlit` · `Transformers` · `Sentence-Transformers` · `Newspaper3k` · `TextBlob`
     
+    Built by Rishav Jha
+    
     *This tool is for educational and research purposes. Always verify information from multiple sources.*
     """)
 
