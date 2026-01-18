@@ -8,3 +8,4 @@ textblob
 scikit-learn
 requests
 numpy
+lxml_html_clean
