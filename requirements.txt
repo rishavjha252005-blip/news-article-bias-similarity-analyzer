@@ -1,0 +1,10 @@
+streamlit
+newspaper3k
+nltk
+transformers
+torch
+sentence-transformers
+textblob
+scikit-learn
+requests
+numpy
