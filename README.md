@@ -313,6 +313,6 @@ Built with:
 
 ---
 
-**Made with ❤️ for the NLP and journalism community**
+
 
 *Last updated: January 2026*
